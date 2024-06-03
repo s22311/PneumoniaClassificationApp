@@ -1,3 +1,4 @@
+inotify
 numpy
 opencv-python-headless
 matplotlib
